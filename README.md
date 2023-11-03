@@ -1,5 +1,5 @@
 # 💫 About Me:
-UI/UX designer<br>Front-end developer
+UI/UX designer
 
 
 ## 🌐 Socials:
